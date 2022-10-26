@@ -1,0 +1,18 @@
+*,
+html {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(140102
+    background-size: cover;
+}
+
+.ya {
+    font-size: 50px;  
+    align-items: center; 
+    background-color: tomato
+    
+    
+}
